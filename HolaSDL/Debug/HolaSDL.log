@@ -1,0 +1,4 @@
+﻿  Game.cpp
+d:\pacman\proyectossdl\holasdl\game.cpp(193): warning C4101: 'elemento': variable local sin referencia
+  HolaSDL.vcxproj -> D:\PacMan\ProyectosSDL\bin\HolaSDLDebug.exe
+  HolaSDL.vcxproj -> D:\PacMan\ProyectosSDL\bin\HolaSDLDebug.pdb (Partial PDB)
